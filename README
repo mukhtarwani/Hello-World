@@ -1,3 +1,7 @@
 
 Hello  World!
+<<<<<<< HEAD
 2nd Change after branch change
+=======
+Hi now World (1st change)
+>>>>>>> exp
